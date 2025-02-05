@@ -1,4 +1,4 @@
-name: math_ml
+name: comb_ml
 channels:
   - defaults
 dependencies:
