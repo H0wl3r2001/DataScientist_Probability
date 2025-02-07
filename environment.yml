@@ -9,3 +9,4 @@ dependencies:
   - scipy
   - scikit-learn
   - jupyter
+  - sympy
